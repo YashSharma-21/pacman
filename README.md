@@ -7,3 +7,7 @@
 <p>
 To play the game, press the "O" key on your keyboard after running the program. Then you may use the A-S-W-D keys to control the direction of pacman. This game currently only provides basic functionalities such as allowing pacman to move in a direction, eating orbs, eating ghosts when they are blue in color (in vulnerable state) and a few extra things such as the vulnerable state for ghosts ending within a few seconds.  
 </p>
+
+<p>
+  The game is by no means in a "perfect" state, pacman can occasionally get stuck in some areas while moving but this can generally be resolved by moving him in an appropriate direction. This project was created just to demostrate the graphical features offered by the graphics.h header file.
+</p>
